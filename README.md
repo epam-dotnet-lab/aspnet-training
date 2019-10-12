@@ -23,7 +23,7 @@
 
 2. Sorting an array - [task02-sort-array.cs](https://github.com/epam-dotnet-lab/aspnet-training/blob/master/tasks/task02-sort-array.cs), [fiddle](https://dotnetfiddle.net/w6sh6N).
 
-3. Filtering values in an array - [task03-filter.cs](https://github.com/epam-dotnet-lab/aspnet-training/blob/master/tasks/task03-filter.cs), [https://dotnetfiddle.net/7LrOey].
+3. Filtering values in an array - [task03-filter.cs](https://github.com/epam-dotnet-lab/aspnet-training/blob/master/tasks/task03-filter.cs), [fiddle](https://dotnetfiddle.net/7LrOey).
 
 4. Finding a min and max values in jagged arrays - [task04-find-min-max.cs](https://github.com/epam-dotnet-lab/aspnet-training/blob/master/tasks/task04-find-min-max.cs), [fiddle](https://dotnetfiddle.net/7LrOey).
 
