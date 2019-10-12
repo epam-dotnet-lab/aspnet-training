@@ -12,7 +12,7 @@
 
 1. Fork this repository - [help](https://help.github.com/en/articles/fork-a-repo).
 2. Make it private - [help](https://help.github.com/en/articles/setting-repository-visibility#making-a-repository-private).
-3. Add new collaborator to your repository - "anzhelikakravchuk", [help](https://help.github.com/en/articles/inviting-collaborators-to-a-personal-repository). 
+3. Add "anzhelikakravchuk" to your repository as collaborator - [help](https://help.github.com/en/articles/inviting-collaborators-to-a-personal-repository). 
 4. Complete a task.
 5. [Edit a task file](https://help.github.com/en/articles/editing-files-in-your-repository), and commit your changes.
 
