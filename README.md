@@ -1,11 +1,21 @@
 # ASP.NET MVC Web Applications
 
+## Objectives
+
+An introduction to the design of modern web applications.
+
+Upon completion of this training students will be able to:
+- Create a high quality code in C#.
+- Create unit tests with MS Unit Testing and Moq frameworks.
+- Design and create a simple web application using ASP.NET framework.
+
+
 ## Training Requirements
 
-* Strong motivation and desire to learn
-* Basic programming languages skills - ability to read and create a simple algorithm
-* Experience in creating simple C# applications
-* English - A2+
+* Strong motivation and desire to learn.
+* Basic programming languages skills - ability to read and create a simple algorithm.
+* Experience in creating simple C# applications.
+* English - A2+.
 
 
 ## How to work with tasks?
