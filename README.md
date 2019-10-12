@@ -14,7 +14,7 @@
 2. Make it private - [help](https://help.github.com/en/articles/setting-repository-visibility#making-a-repository-private).
 3. Add "anzhelikakravchuk" to your repository as collaborator - [help](https://help.github.com/en/articles/inviting-collaborators-to-a-personal-repository). 
 4. Complete a task.
-5. [Edit a task file](https://help.github.com/en/articles/editing-files-in-your-repository), and commit your changes.
+5. Edit a task file, and commit your changes - [help](https://help.github.com/en/articles/editing-files-in-your-repository).
 
 
 ## Tasks
