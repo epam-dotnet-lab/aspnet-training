@@ -8,6 +8,7 @@ Upon completion of this training students will be able to:
 - Create a high quality code in C#.
 - Create unit tests with MS Unit Testing and Moq frameworks.
 - Design and create a simple web application using ASP.NET framework.
+- Use Visual Studio IDE for developing .NET applications.
 
 
 ## Training Requirements
