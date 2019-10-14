@@ -55,6 +55,7 @@ public class Program
 			if (result.SequenceEqual(expectedResult))
 			{
 				Console.WriteLine(correctCaseTemplate, testCaseNumber);
+				correctTestCaseAmount++;
 			}
 			else
 			{
@@ -87,5 +88,5 @@ public class Program
 
 	private static string correctCaseTemplate = "Case #{0} is correct.";
 	private static string incorrectCaseTemplate = "Case #{0} IS NOT CORRECT";
-	private static int correctTestCaseAmount = 8;
+	private static int correctTestCaseAmount = 0;
 }
