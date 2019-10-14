@@ -33,21 +33,21 @@ public class Program
 		TestReturnedValues(testCaseNumber++, new int[][] { new int[] { 1 } }, true, 1, 1);
 		TestReturnedValues(testCaseNumber++, new int[][] { null, new int[] { } }, false, 0, 0);
 		TestReturnedValues(testCaseNumber++, new int[][] { new int[] { }, null }, false, 0, 0);
-		TestReturnedValues(testCaseNumber++, new int[][] { new int[] { 2 }, new int[] { 1 } }, false, 0, 0);
+		TestReturnedValues(testCaseNumber++, new int[][] { new int[] { 2 }, new int[] { 1 } }, true, 1, 2);
 		TestReturnedValues(testCaseNumber++, new int[][]
 			{
 				new int[] { 1, 2, 3, 4, 5, 6, 7, 8, 9 },
 				new int[] { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14 },
 				new int[] { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12 },
 				new int[] { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 }
-			} , false, 0, 0);
+			} , true, 1, 14);
 		TestReturnedValues(testCaseNumber++, new int[][]
 			{
 				new int[] { 7, 395, 1, 9, 6, 62, 71, 80, 918 },
 				new int[] { 102, 72, 84, 41, 89, 382, 7, 36, 53, 10, 1101, 93, 23, 1401 },
 				new int[] { 942, 29, 3, 346, 53, 6, 73, 897, 384, 052, 3, 501 },
 				new int[] { 39, 83, 11, 28, 385, 0, 5, 482, 947, 143 }
-			} , false, 0, 1401);
+			} , true, 0, 1401);
 		TestException<ArgumentNullException>(testCaseNumber++, null);
 
 		if (correctTestCaseAmount == testCaseNumber - 1)
@@ -70,6 +70,7 @@ public class Program
 			if (result == expectedResult && expectedMin == min && expectedMax == max)
 			{
 				Console.WriteLine(correctCaseTemplate, testCaseNumber);
+				correctTestCaseAmount++;
 			}
 			else
 			{
