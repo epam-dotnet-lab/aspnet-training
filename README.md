@@ -34,18 +34,22 @@ Hi,
 
 Here is my repository and my tasks - https://github.com/<github-account>/<repository>
 
-+ Task 1
-+ Task 2
-- Task 3
-+ Task 4
++ Task 1 - https://github.com/<github-account>/<repository>/blob/master/tasks/task01-vowel-count.cs
++ Task 2 - https://github.com/<github-account>/<repository>/blob/master/tasks/task02-sort-array.cs
++ Task 3 - https://github.com/<github-account>/<repository>/blob/master/tasks/task03-filter.cs
++ Task 4 - https://github.com/<github-account>/<repository>/blob/master/tasks/task04-find-min-max.cs
 - Task 5
 - Task 6
+
+https://github.com/epam-dotnet-lab/aspnet-training/task01-vowel-count.cs
 
 Thanks,
 <Your name>
 ```
 
-If you can't solve a certain task just skip it. We expect that you will complete all tasks in one week, but don't hesitate to send us your solution event in case that you miss the deadline.
+If you can't solve a certain task just skip it, but we expect that you will be able to solve at least 4 tasks.
+
+Also, we expect that you will complete all tasks in one week, but don't hesitate to send us your solution even in case that you miss the deadline.
 
 
 ## Tasks
