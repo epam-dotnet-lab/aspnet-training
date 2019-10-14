@@ -48,7 +48,7 @@ Thanks,
 
 If you can't solve a certain task just skip it, but we expect that you will be able to solve at least 4 tasks.
 
-Also, we expect that you will complete all tasks in one week, but don't hesitate to send us your solution even in case that you miss the deadline.
+Also, we expect that you will complete all tasks in two days, but don't hesitate to send us your solution even in case that you miss the deadline.
 
 
 ## Tasks
