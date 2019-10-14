@@ -1,4 +1,4 @@
-# ASP.NET MVC Web Applications
+# Developing modern web applications with ASP.NET MVC
 
 ## Objectives
 
