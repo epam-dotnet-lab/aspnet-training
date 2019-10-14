@@ -119,7 +119,7 @@ Consider using these tools for completing tasks: [repl.it](https://repl.it/langu
       - Stream Adapters, Stream Decorators.
       - File and Directory Operations. 
    - XML Technologies 
-      - XML intro.э
+      - XML intro.
       - Architectural Overview. 
       - X-DOM Overview.
       - The LINQ to XML DOM. Instantiating an X-DOM. 
