@@ -53,6 +53,8 @@ Also, we expect that you will complete all tasks in one week, but don't hesitate
 
 ## Tasks
 
+Each task is a console application that has a method template and test cases. You have to implement the method body in the way to make all test cases work.
+
 1. Getting the amount of vowels in a string - [task01-vowel-count.cs](https://github.com/epam-dotnet-lab/aspnet-training/blob/master/tasks/task01-vowel-count.cs).
 
 2. Sorting an array - [task02-sort-array.cs](https://github.com/epam-dotnet-lab/aspnet-training/blob/master/tasks/task02-sort-array.cs).
@@ -64,6 +66,7 @@ Also, we expect that you will complete all tasks in one week, but don't hesitate
 5. Getting a list of prime numbers in a specified range - [task05-prime-numbers.cs](https://github.com/epam-dotnet-lab/aspnet-training/blob/master/tasks/task05-prime-numbers.cs).
 
 6. Using class and methods modifiers - [task06-modifiers.cs](https://github.com/epam-dotnet-lab/aspnet-training/blob/master/tasks/task06-modifiers.cs).
+
 
 ### Task Tools
 
@@ -79,7 +82,10 @@ Fiddles for tasks:
 * [Task 6](https://dotnetfiddle.net/xSk1L3)
 
 
- ### Content 
+ ### Training Content
+ 
+ Training will cover these topics:
+ 
    - Creating types in C# 
       - Value and Reference Types.
       - Classes vs Struct. 
