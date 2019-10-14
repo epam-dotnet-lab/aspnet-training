@@ -41,7 +41,6 @@ Here is my repository and my tasks - https://github.com/<github-account>/<reposi
 - Task 5
 - Task 6
 
-https://github.com/epam-dotnet-lab/aspnet-training/task01-vowel-count.cs
 
 Thanks,
 <Your name>
