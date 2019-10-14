@@ -25,6 +25,27 @@ Upon completion of this training students will be able to:
 2. Add "anzhelikakravchuk" to your repository as collaborator - [help](https://help.github.com/en/articles/inviting-collaborators-to-a-personal-repository). 
 3. Complete a task.
 4. Upload a task file to your repository - [help](https://help.github.com/en/articles/editing-files-in-your-repository).
+5. Send an email to anzhelika_kravchuk@epam.com with a link to your repository:
+
+```
+Subject: ASP.NET MVC Training
+
+Hi,
+
+Here is my repository and my tasks - https://github.com/<github-account>/<repository>
+
++ Task 1
++ Task 2
+- Task 3
++ Task 4
+- Task 5
+- Task 6
+
+Thanks,
+<Your name>
+```
+
+If you can't solve a certain task just skip it. We expect that you will complete all tasks in one week, but don't hesitate to send us your solution event in case that you miss the deadline.
 
 
 ## Tasks
