@@ -43,7 +43,7 @@ Here is my repository and my tasks - https://github.com/<github-account>/<reposi
 
 
 Thanks,
-<Your name>
+<Your Full name>
 ```
 
 If you can't solve a certain task just skip it, but we expect that you will be able to solve at least 4 tasks.
@@ -175,8 +175,8 @@ Fiddles for tasks:
       - Serialization mechanisms in the .NET Framework. Formatters.
       - The Data Contract Serializer.
       - The Binary Serializer.
-      - XML Serialization. 
-    - Object Oriented Design Principles
+      - XML Serialization.   
+   - Object Oriented Design Principles
       - Principles of software development.
       - SOLID principles.
    - Attributes
