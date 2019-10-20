@@ -9,8 +9,25 @@ public class Program
 {
 	public static int CountVowels(string s)
 	{
-		// ИЗМЕНИТЕ КОД ЭТОГО МЕТОДА
-		return -1;
+		if (s==null)
+		{
+			throw new ArgumentNullException("s");
+		}
+		char[] text=s.ToCharArray();
+		char[] vowels=new char[] {'a','e','i','o','u','A','E','I','O','U'};
+		int counter=0;
+		for (int i=0; i<s.Length;i++)
+		{
+			for(int y=0; y<=9; i++)
+			{
+				if (vowels[y]==text[i])
+					{
+						counter++;
+					}
+			}
+		}
+		
+		return counter;
 	}
 
 	// ----- ЗАПРЕЩЕНО ИЗМЕНЯТЬ КОД МЕТОДОВ, КОТОРЫЕ НАХОДЯТСЯ НИЖЕ -----
