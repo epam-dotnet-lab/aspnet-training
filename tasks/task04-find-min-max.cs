@@ -79,7 +79,7 @@ public class Program
 		}
 		catch(Exception)
 		{
-			Console.WriteLine(correctCaseTemplate, testCaseNumber);
+			Console.WriteLine(incorrectCaseTemplate, testCaseNumber);
 		}
 	}
 
