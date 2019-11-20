@@ -22,7 +22,7 @@ Upon completion of this training students will be able to:
 ## How to work with tasks?
 
 1. Create a new private repository - [help](https://help.github.com/en/articles/create-a-repo).
-2. Add "anzhelikakravchuk" and "Demenkovets" to your repository as collaborators - [help](https://help.github.com/en/articles/inviting-collaborators-to-a-personal-repository). 
+2. Add "anzhelikakravchuk" to your repository as collaborators - [help](https://help.github.com/en/articles/inviting-collaborators-to-a-personal-repository). 
 3. Complete a task.
 4. Upload a task file to your repository - [help](https://help.github.com/en/articles/editing-files-in-your-repository).
 5. Send an email to anzhelika_kravchuk@epam.com with a link to your repository (add Mariia_Lukhverchik@epam.com in cc):
