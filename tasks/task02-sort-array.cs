@@ -62,7 +62,7 @@ public class Program
         }
         catch (Exception)
         {
-            Console.WriteLine(correctCaseTemplate, testCaseNumber);
+            Console.WriteLine(failedCaseTemplate, testCaseNumber);
         }
     }
 
@@ -86,5 +86,6 @@ public class Program
 
     private static string correctCaseTemplate = "Case #{0} is correct.";
     private static string incorrectCaseTemplate = "Case #{0} IS NOT CORRECT";
+    private static string failedCaseTemplate = "Case #{0} FAILED";
     private static int correctTestCaseAmount = 0;
 }
