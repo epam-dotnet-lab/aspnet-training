@@ -8,10 +8,24 @@ using System;
 public class Program
 {
 	public static int CountVowels(string s)
-	{
-		// ИЗМЕНИТЕ КОД ЭТОГО МЕТОДА
-		return -1;
-	}
+        {
+            if (s == " ")
+                return 0;
+            if (s == null)
+                throw new ArgumentNullException("Ooops! There is nothing.");
+            else
+            {
+                s = s.ToLower();
+                char[] sChar = s.ToCharArray();
+                char[] chars = { 'a', 'e', 'i', 'o', 'u' };
+                int counter = 0;
+                for (int i = 0; i < sChar.Length; i++)
+                    for (int j = 0; j < chars.Length; j++)
+                        if (chars[j].Equals(sChar[i]))
+                            counter++;
+                return counter;
+            }
+        }
 
 	// ----- ЗАПРЕЩЕНО ИЗМЕНЯТЬ КОД МЕТОДОВ, КОТОРЫЕ НАХОДЯТСЯ НИЖЕ -----
 
